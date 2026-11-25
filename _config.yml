@@ -1,0 +1,17 @@
+title: Karl Hulse
+description: >-
+  Debugging mobile networks from packet captures: 4G, 5G, roaming and signalling,
+  plus AI tools for network operations.
+url: "https://kx96xx.github.io"
+baseurl: ""
+theme: minima
+author:
+  name: Karl Hulse
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/Kx96xx" }
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - about.md
